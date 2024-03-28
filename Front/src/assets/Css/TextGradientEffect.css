@@ -1,0 +1,75 @@
+@keyframes moverFondo {
+  0% {
+    background-position: 0% 50;
+    background-color: #ffcc00;
+  }
+  50% {
+    background-position: 100% 50%;
+    background-color: #ff6699;
+  }
+  100% {
+    background-position: 0% 50%;
+    background-color: #ffcc00;
+  }
+}
+
+/* Prefijos de proveedores para garantizar compatibilidad */
+@-webkit-keyframes moverFondo {
+  0% {
+    background-position: 0% 50;
+    background-color: #ffcc00;
+  }
+  50% {
+    background-position: 100% 50%;
+    background-color: #ff6699;
+  }
+  100% {
+    background-position: 0% 50%;
+    background-color: #ffcc00;
+  }
+}
+
+@-moz-keyframes moverFondo {
+  0% {
+    background-position: 0% 50;
+    background-color: #ffcc00;
+  }
+  50% {
+    background-position: 100% 50%;
+    background-color: #ff6699;
+  }
+  100% {
+    background-position: 0% 50%;
+    background-color: #ffcc00;
+  }
+}
+
+@-o-keyframes moverFondo {
+  0% {
+    background-position: 0% 50;
+    background-color: #ffcc00;
+  }
+  50% {
+    background-position: 100% 50%;
+    background-color: #ff6699;
+  }
+  100% {
+    background-position: 0% 50%;
+    background-color: #ffcc00;
+  }
+}
+
+@-ms-keyframes moverFondo {
+  0% {
+    background-position: 0% 50;
+    background-color: #ffcc00;
+  }
+  50% {
+    background-position: 100% 50%;
+    background-color: #ff6699;
+  }
+  100% {
+    background-position: 0% 50%;
+    background-color: #ffcc00;
+  }
+}
